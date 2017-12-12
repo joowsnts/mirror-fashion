@@ -106,8 +106,8 @@ header	{
 
 
 .painel {
-	margin: 5px 0;
-	padding: 5px;
+	margin: 10px 0;
+	padding: 10px;
 	width: 445px;
 }
 
@@ -129,7 +129,6 @@ header	{
 	width: 140px;
 
 	margin: 2px;
-	margin-left: 2px;
 	padding-bottom: 10px;
 }
 
