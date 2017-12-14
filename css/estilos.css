@@ -73,7 +73,7 @@ header	{
 .busca h2,
 .busca form,
 .menu-departamentos h2 {
-	margin: 10px;
+	margin: 8px;
 	font-size: 20px;
 }
 
@@ -82,6 +82,10 @@ header	{
 	margin-bottom: 1px;
 	padding: 5px 10px;
 	list-style-type: none;
+}
+
+.menu-departamentos ul {
+	padding-left: 0px;
 }
 
 .menu-departamentos a {
@@ -126,7 +130,7 @@ header	{
 .painel li {
 	display: inline-block;
 	vertical-align: top;
-	width: 140px;
+	width: 120px;
 
 	margin: 2px;
 	padding-bottom: 10px;
@@ -146,6 +150,11 @@ header	{
 	font-size: 14px;
 	text-align: center;
 	text-decoration: none;
+}
+
+.novidades ol,
+.mais-vendidos ol {
+	padding-left: 0px;
 }
 
 
